@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RunnerOne.  I am a ServiceNow Developer in Dayton, Ohio 
 - 👀 I’m interested in ServiceNow (duh), JS, AngularJS, REST and all other things ServiceNow Development
-- 🌱 I’m currently learning UI Builder on the Tokyo Release of the ServiceNow Platform
+- 🌱 I’m currently working my way through the ServiceNow Developer Learning Path, ServiceNow Application Developer
 - 📫 How to reach me:  derekbjones@gmail.com 
 
 <!---
